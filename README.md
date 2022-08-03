@@ -2,16 +2,10 @@
 
 안녕하세요. 오지훈입니다.
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
-</div>
-
 ### Interest
 - CV, SLAM, Drone, UAV
 - Operation Research
-- Leadership, Mentoring, Writing, Presentation
+-  Writing
 
 <div align=center>
 
