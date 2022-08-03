@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**https://learnandknowblog.tistory.com/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Oh-Ji-Hoon/Oh-Ji-Hoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
