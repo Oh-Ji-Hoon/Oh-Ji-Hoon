@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on looking CS231n
-- 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on SLAM paper
-- 🤔 I’m looking for help with 
-- 💬 Ask me about call me, ojihun8588@gmail.com
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on looking CS231n.
+- 🌱 I’m currently learning ML.
+- 👯 I’m looking to collaborate on SLAM paper.
+- 🤔 I’m looking for help with SLAM how to make.
+- 💬 Ask me about! any thing! 
+- 📫 How to reach me: call me, ojihun8588@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
