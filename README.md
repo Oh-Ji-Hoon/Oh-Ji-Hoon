@@ -9,8 +9,7 @@
 </div>
 
 ### Interest
-- CV
-- Google Cloud Platform(Especially, BigQuery)
+- CV, SLAM, Drone, UAV
 - Operation Research
 - Leadership, Mentoring, Writing, Presentation
 
