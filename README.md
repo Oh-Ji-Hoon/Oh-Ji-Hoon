@@ -1,5 +1,6 @@
 ### Hi there 👋 안녕하세요. 오지훈입니다.
 
+- 제 블로그 입니다. https://learnandknowblog.tistory.com/
 - 🔭 I’m currently working on looking CS231n.
 - 🌱 I’m currently learning ML.
 - 🤔 I’m looking for help with SLAM how to make.
@@ -11,3 +12,5 @@
 - [글자 인식 프로젝트](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/6da5d6b0674131bf868dfd2d1c8b7ee1b4e83ff2/%5BE-15%5Docr.ipynb)
 - [폐렴 진단 프로젝트](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/6da5d6b0674131bf868dfd2d1c8b7ee1b4e83ff2/%5BE_09%5Dxrays.ipynb)
 - [pix2pix GAN 프로젝트](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/6da5d6b0674131bf868dfd2d1c8b7ee1b4e83ff2/%5BE_17%5Dpix2pixstreetgan.ipynb)
+
+
