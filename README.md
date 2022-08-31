@@ -13,3 +13,12 @@
 - [폐렴 진단 프로젝트](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/6da5d6b0674131bf868dfd2d1c8b7ee1b4e83ff2/%5BE_09%5Dxrays.ipynb)
 
 
+그 외 진행했던 프로젝트
+
+- [손글씨, 와인, 유방암 예측](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/dcc39705683f6b58a284a7947471b41347f1e01a/%5BE-02%5Ddigits_wine_cancer.ipynb)
+- [인공지능 소설 작가 만들기](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/dcc39705683f6b58a284a7947471b41347f1e01a/%5BE-04%5Daiwriter.ipynb)
+- [퀴즈 봇](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/dcc39705683f6b58a284a7947471b41347f1e01a/%5BE-13%5Dqnabot.ipynb)
+- [ocr 글자 인식 봇](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/dcc39705683f6b58a284a7947471b41347f1e01a/%5BE-15%5Docr.ipynb)
+- [cifar 10 GAN](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/dcc39705683f6b58a284a7947471b41347f1e01a/%5BE_10%5Dnewcreatecifar10.ipynb)
+- [심심이같은 챗봇](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/dcc39705683f6b58a284a7947471b41347f1e01a/%5BE_12%5Dchatbot.ipynb)
+
