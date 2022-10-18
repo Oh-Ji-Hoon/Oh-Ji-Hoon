@@ -4,7 +4,9 @@
 - 강화학습을 주로 공부하고 있습니다.
 - 💬 Ask me about! any thing! 
 - 📫 How to reach me: call me, ojihun8588@gmail.com
-- 다음 아래는 제가 진행했던 프로젝트들입니다.
+
+인공지능 프로젝트들 입니다. 이쪽은 CV관련 프로젝트 입니다.
+
 - [가위 바위 보 인식 프로잭트](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/6da5d6b0674131bf868dfd2d1c8b7ee1b4e83ff2/%5BE-01%5Drockscissorpaper-ojh.ipynb)
 - [얼굴 스티커 프로젝트](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/6da5d6b0674131bf868dfd2d1c8b7ee1b4e83ff2/%5BE-03%5Dfacesticker.ipynb)
 - [글자 인식 프로젝트](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/6da5d6b0674131bf868dfd2d1c8b7ee1b4e83ff2/%5BE-15%5Docr.ipynb)
