@@ -1,6 +1,7 @@
 ### Hi there 👋 안녕하세요. 오지훈입니다.
 
 - 제 블로그 입니다. https://learnandknowblog.tistory.com/
+- 강화학습을 주로 공부하고 있습니다.
 - 💬 Ask me about! any thing! 
 - 📫 How to reach me: call me, ojihun8588@gmail.com
 - 다음 아래는 제가 진행했던 프로젝트들입니다.
