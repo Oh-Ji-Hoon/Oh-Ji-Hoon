@@ -22,3 +22,4 @@
 - [cifar 10 GAN](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/dcc39705683f6b58a284a7947471b41347f1e01a/%5BE_10%5Dnewcreatecifar10.ipynb)
 - [심심이같은 챗봇](https://github.com/Oh-Ji-Hoon/AI_crossing/blob/dcc39705683f6b58a284a7947471b41347f1e01a/%5BE_12%5Dchatbot.ipynb)
 
+- [강화학습 경로 찾기](https://github.com/Oh-Ji-Hoon/path-finding-rl)
